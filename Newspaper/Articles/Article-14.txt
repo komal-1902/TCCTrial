@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Liberalism in India</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="post.html">Sample Post</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/post-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1>What does it mean to be liberal in India?</h1>
+                        <span class="meta">Posted by Shyamsalonee Rawal on October 2, 2016</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <p>Liberalism in India maintains a very unlikely peaceful balance amidst matters like female foeticide, Hunger, Poverty, illiteracy, gender inequality et cetera. I won't hesitate to say that not more than 20% of the citizens of my nation are affected by the present condition of liberalism enough to be willing to bring a change about it.</p>
+<p>To understand the Indian idea of liberalism better, one day, I asked my parents about their opinions about it. I learnt some rather obnoxious
+things that day. My father was taught to never display feminine traits, like
+sensitivity and much emotions in general and My mother, masculinity. It's only in
+India, that emotions have a gender. In their elaboration, I understood that the basic
+foundation of the globally known idea of liberalism is shattered in a million
+pieces in India, and is modified to form a rather degraded version.</p>
+<p>The Indian
+version of liberalism is laid somewhere in the region of all things tyrannous
+and acceptable, to be brutally honest. If we narrow down ideas of liberalism for an average 18 year old female, it'll mostly include freedom of thought,
+independence and the liberality to be 'her' kind of happy. It's miserable really,
+that a major proportion of such a female's mind space is presently taken up by
+thoughts of getting raped and being forced into marriage without having a
+chance to build a career. To a large proportion of fellow Indians, Liberalism will
+narrow down to Secularism, to some - feminism, to some - political Chauvinism
+and to some - Education.</p>
+<p>
+The beauty of being an Indian is that people realises how messed up their
+country's ideas about things like liberalism is and choose to co-exist with it by
+writing blogs, and posting facebook statuses against it to show their concern.
+Well, the real sad part is, my essay is not making a discovery here. Most
+Indians will acknowledge everything I've mentioned, and will in the end, quite
+ironically be liberal about it. The it in the previous sentence is not my essay, it
+is the Indian version of 'liberalism'. I wonder if I'm mistaken to be living in this
+mirage where I think Indians aren't liberal at all. They have their own, but false,
+version of it. Or is everyone pulling off a desperateness induced charade of
+acceptance. At the end of the day,all everybody wants is a happy life.</p>
+<p>
+I am striving hard to bring a change, no matter how small, and I want to share
+this feeling with people too. Because at the end of the day, we need to ask
+ourselves what kind of a nation are we bringing our children into and putting
+forward to the world as their largest democracy.</p>
+<p>Let's work hard and hope for a better tomorrow. Optimism is the staple diet of a
+liberal Indian, after all.</p>
+                </div>
+            </div>
+        </div>
+    </article>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; TheCumminsChronicle2016</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>

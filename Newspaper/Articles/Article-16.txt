@@ -1,0 +1,226 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Fresher's</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="post.html">Sample Post</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/post-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1>Fresher's Night</h1>
+                        <span class="meta">Posted by Shivangi Sinha on October 5, 2016</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+		<p>FRESHER'S NIGHT!! The SECOND YEAR girls of Cummins always host a night for our juniors! And believe me this night is worth the wait!! A night which is awaited by all girls (or also guys outside college maybe! ) This event surely holds a special position in our hearts!! But when it comes to planning an event, first question asked us is "How will you GIRLS manage everything??" Our answer? </p>
+
+<p><b>Flashmob</b><br>
+Who isn't fond of FLASHMOB, when it comes to Fresher's, that's the first thing that comes into our mind. Flashmob is a gesture to invite all the new faces with open arms to join the GANG of seniors and follow them! Loud music in our own Quadrangle itself calls out the juniors for shaking their legs and after a minute, entire space is occupied by the beauties, feeling and enjoying the beats of music.</p>
+
+</div>
+
+<div class="col-sm-4 col-sm-offset-2 text-center">
+<img src="img/16-2.jpg">
+</div>
+<div class="col-sm-4 text-center">
+<img src="img/16-3.jpg">
+</div>
+
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<p><b>Practice</b><br>
+Indeed "Practice makes a WOMAN perfect!". And when it comes to performing BAND or Dance Performances, excitement follows with the preparations from weeks ago! It is surely a sight to watch, when girls are practicing before the final performance. The spark of fire to make their performances UP-TO-THE-MARK is seen in everyone's eyes. Final performance is always praised by the audience, but the real hard work is seen when these girls give their 200% into practice.</p>
+
+<p><b>Decorations</b><br>
+"Decoration hai toh party mein jaan hai.. Decorations nahi, toh party kuch bhi nahi!" And in Cummins... party is always complemented with a THEME! With decorations made accordingly. Girls never fail to manage their time; irrespective of their submissions and lectures. Each of them takes equal efforts to make the Quadrangle dressed up like a beautiful young lady ; ) Glitters, balloons and ribbons are spread all around to give an electrifying effect to the party!</p>
+
+</div>
+
+<div class="col-sm-4 col-sm-offset-2 text-center">
+<img src="img/16-4.jpg">
+</div>
+<div class="col-sm-4 text-center">
+<img src="img/16-5.jpg">
+</div>
+
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<p><b>Anchoring</b><br>
+The HEART of event... Our Anchors! They are the ones who speak on behalf of entire college and welcome the juniors in Cummins Family! For making the eve lively and active, they never fail to inject a serum of energy into the audience.. And guess what, it really works! Entire crowd is shouting loud with them and a wave of enthusiasm can be felt in the air!</p>
+
+<p>
+<b>DJ NIGHT</b><br>
+"Are abhi toh party shuru hui hai!!" Yess! This is the call of almost each and every girl for the most awaited part of every fresher's party , the DJ night. Cluster of girls dancing like tiny drops of different color trying to merge with each other can be seen. Girls in Cummins are always ready for the dance & nothing can stop them if the music is on. DJ night is the best time to dance your heart out. No one, we repeat NO ONE can resist dancing this night. Even non - dancers find hidden talent of being DANCER in them!
+</p>
+
+</div>
+
+<div class="col-sm-4 col-sm-offset-2 text-center">
+<br><img src="img/16-8.jpg">
+</div>
+<div class="col-sm-4 text-center">
+<img src="img/16-7.jpg">
+</div>
+
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+<p><b>MISS FRESHER'S </b><br>
+The root of entire event lies here! Where every girl wishes to wear the crown entitled "MISS FRESHER'S" How is it done? <br>
+Every first year girl participates in this contest which starts from a very simple written pen-paper round and goes to a small quiz round in fresher's party. The heart of every girl who gets selected for final round races at twice its speed when it comes for quiz /personality/talent round. Finally, a girl is selected with her overall Personality, Attitude, Confidence and is crowned as Miss Fresher's of Cummins. Cheering for a participant from our respective class is the moment which send chills down the spine of every contestant.</p>
+
+<p><b>Dance Performances</b><br>
+And this is the moment where you have to show off your dancing Skills..! As said before, since Second year students throw this party, girls work hard from weeks back to make this gig a memorable event. Dance performances prepared by them are really appreciable. And that scene where everyone is concentrating at the wonderful steps that have been executed is really EYE-PLEASING!!(heart) The most trending and catchy songs involve all the girls into the performances and make the entire episode of fresher's a big HIT!</p>
+
+</div>
+
+<div class="col-sm-4 col-sm-offset-2 text-center">
+<img src="img/16-8.jpg">
+</div>
+<div class="col-sm-4 text-center">
+<img src="img/16-9.jpg">
+</div>
+
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<p><b>PANEL MEMBERS</b><br>
+OUR SUPPORT SYSTEM...!! Any event at Cummins cannot be imagined without the Students Panel. This team holds the charge to manage every activity going on in and around the campus. Whether it is DJ or FOOD!! BAND or SECURITY!!! These are the ones because of whom we celebrate each and every fest! And when it comes to  fresher's-like-events, enthusiasm of this team has to be seen! They give their whole-and-sole to welcome the newbies in the best possible way!!
+</p>
+
+<p>Wait!! This isn't it!! Fresher's in Cummins is much much more than this! These are the events which bring out LOVE - UNITY - CREATIVITY - HARDWORK out of everyone! A general misconception being "TWO girls cannot work as ONE" is scratched off in CUMMINS! Hard to believe but  "NO CAT FIGHTS - NO EGO PROBLEMS - NO BITCHINESS" is witnessed here! Just a SETUP which contains #Everyone_Together and #Long_Term_Friendship_Goals is INSTALLED here! Now that's CUMMINS for you!
+</p>
+</div>
+            </div>
+        </div>
+    </article>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; TheCumminsChronicle2016</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
